@@ -1,5 +1,9 @@
 a = 5                               
-b = 15                                                               
+
+b = 12                                                              
+
+b = 16                                                               
+
 a, b = b, a                                                                 
 print(a) # 10                               
 print(b)
